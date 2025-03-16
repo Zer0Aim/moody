@@ -4,17 +4,25 @@ Moody is a journaling app that records your thoughts and mood.
 
 # Screenshots
 
-1. Start Screen: User can enter number for the computer to guess
+1. Start Screen
 
-<img width="449" alt="Start Screen" src="https://github.com/user-attachments/assets/6722a412-c4f5-4160-bc38-922dd8630be1" />
+<img width="449" alt="Start screen" src="https://github.com/Zer0Aim/moody/blob/main/screenshots/startscreen.png" />
 
-2. Game Screen: The computer attempts to guess user's number. If the computer's guess is higher than user's number, user must select lower. If the computer's guess is lower than user's number, user must select higher. The computer's guesses are tracked with logs.
+2. Entry screen: Users can nput their thoughts as well as select ther mood.
 
-<img width="449" alt="Game Screen" src="https://github.com/user-attachments/assets/1984fdbb-7a5a-479c-b4ce-1ab98b81745a" />
+<img width="449" alt="Entry input screen" src="https://github.com/Zer0Aim/moody/blob/main/screenshots/entryscreen.png" />
 
-3. Game Over Screen: Overview of how many attempts it took for the computer to guess the user's number.
+3. Start screen with entries
 
-<img width="449" alt="Game Over Screen" src="https://github.com/user-attachments/assets/8e4f1ece-7e08-40dd-8623-90086f3f4880" />
+<img width="449" alt="Start screen with entries" src="https://github.com/Zer0Aim/moody/blob/main/screenshots/startwithentry.png" />
+
+4. View entry screen
+
+<img width="449" alt="View entry screen" src="https://github.com/Zer0Aim/moody/blob/main/screenshots/viewentryscreen.png" />
+
+5. Edit entry screen
+
+<img width="449" alt="Ediit entry screen" src="https://github.com/Zer0Aim/moody/blob/main/screenshots/editentryscreen.png" />
 
 # Setup
 
