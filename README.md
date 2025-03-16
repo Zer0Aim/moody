@@ -34,7 +34,6 @@ Moody is a journaling app that records your thoughts and mood.
 # Built with
 
 - Components
-- JSX
 - Props
 - useState
 - context API
