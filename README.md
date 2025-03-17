@@ -28,7 +28,7 @@ Moody is a journaling app that records your thoughts and mood.
 
 1. Download the zip folder and open it on VS Code
 2. Open a new terminal on VS Code and run `npm i`
-3. After installing the node modules, run `npm run start` to run the app
+3. After installing the node modules, run `npx expo start` to run the app
 4. Run the app on your preferred device (Android Studio emulator, Expo Go, etc.)
 
 # Built with
